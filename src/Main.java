@@ -20,7 +20,7 @@ public class Main {
             System.out.println("grade B "+ number);
         }
         else {
-            System.out.println("grade A "+ number);
+            System.out.println("grade a "+ number);
         }
     }
 }
